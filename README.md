@@ -9,9 +9,9 @@ e.g:
 ```
 class myapp::filesystems {
 
-  require openzfs
+  	require openzfs
  
-  zpool { 'myapp':
+  	zpool { 'myapp':
 		pool => 'myapp',
 		ensure => 'present',
 		disk => 'sdb',
