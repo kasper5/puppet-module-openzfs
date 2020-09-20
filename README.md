@@ -2,7 +2,7 @@
 
 Install OpenZFS on RedHat/CentOS.
 
-Apply this module and start using the puppet resource type `zpool` and zfs`.
+Apply this module and start using the puppet resource type `zpool` and `zfs`.
 
 e.g:
 
